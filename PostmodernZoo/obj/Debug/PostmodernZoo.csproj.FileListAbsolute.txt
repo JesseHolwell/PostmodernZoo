@@ -1,0 +1,6 @@
+p:\users\jesse\documents\visual studio 2017\Projects\PostmodernZoo\PostmodernZoo\bin\Debug\PostmodernZoo.exe.config
+p:\users\jesse\documents\visual studio 2017\Projects\PostmodernZoo\PostmodernZoo\bin\Debug\PostmodernZoo.exe
+p:\users\jesse\documents\visual studio 2017\Projects\PostmodernZoo\PostmodernZoo\bin\Debug\PostmodernZoo.pdb
+p:\users\jesse\documents\visual studio 2017\Projects\PostmodernZoo\PostmodernZoo\obj\Debug\PostmodernZoo.csprojResolveAssemblyReference.cache
+p:\users\jesse\documents\visual studio 2017\Projects\PostmodernZoo\PostmodernZoo\obj\Debug\PostmodernZoo.exe
+p:\users\jesse\documents\visual studio 2017\Projects\PostmodernZoo\PostmodernZoo\obj\Debug\PostmodernZoo.pdb

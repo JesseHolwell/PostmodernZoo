@@ -1,0 +1,5 @@
+P:\Users\jesse\Documents\Visual Studio 2017\Projects\PostmodernZoo\PostmodernZoo\bin\Release\PostmodernZoo.exe.config
+P:\Users\jesse\Documents\Visual Studio 2017\Projects\PostmodernZoo\PostmodernZoo\bin\Release\PostmodernZoo.exe
+P:\Users\jesse\Documents\Visual Studio 2017\Projects\PostmodernZoo\PostmodernZoo\bin\Release\PostmodernZoo.pdb
+P:\Users\jesse\Documents\Visual Studio 2017\Projects\PostmodernZoo\PostmodernZoo\obj\Release\PostmodernZoo.exe
+P:\Users\jesse\Documents\Visual Studio 2017\Projects\PostmodernZoo\PostmodernZoo\obj\Release\PostmodernZoo.pdb
